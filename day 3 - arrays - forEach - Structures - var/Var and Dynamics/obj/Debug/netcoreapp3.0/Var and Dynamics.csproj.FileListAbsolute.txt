@@ -1,0 +1,11 @@
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 3 - arrays - forEach - Structures - var\Var and Dynamics\obj\Debug\netcoreapp3.0\Var and Dynamics.csprojAssemblyReference.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 3 - arrays - forEach - Structures - var\Var and Dynamics\obj\Debug\netcoreapp3.0\Var and Dynamics.AssemblyInfoInputs.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 3 - arrays - forEach - Structures - var\Var and Dynamics\obj\Debug\netcoreapp3.0\Var and Dynamics.AssemblyInfo.cs
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 3 - arrays - forEach - Structures - var\Var and Dynamics\bin\Debug\netcoreapp3.0\Var and Dynamics.exe
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 3 - arrays - forEach - Structures - var\Var and Dynamics\bin\Debug\netcoreapp3.0\Var and Dynamics.deps.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 3 - arrays - forEach - Structures - var\Var and Dynamics\bin\Debug\netcoreapp3.0\Var and Dynamics.runtimeconfig.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 3 - arrays - forEach - Structures - var\Var and Dynamics\bin\Debug\netcoreapp3.0\Var and Dynamics.runtimeconfig.dev.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 3 - arrays - forEach - Structures - var\Var and Dynamics\bin\Debug\netcoreapp3.0\Var and Dynamics.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 3 - arrays - forEach - Structures - var\Var and Dynamics\bin\Debug\netcoreapp3.0\Var and Dynamics.pdb
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 3 - arrays - forEach - Structures - var\Var and Dynamics\obj\Debug\netcoreapp3.0\Var and Dynamics.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 3 - arrays - forEach - Structures - var\Var and Dynamics\obj\Debug\netcoreapp3.0\Var and Dynamics.pdb

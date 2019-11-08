@@ -1,0 +1,11 @@
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 3 - arrays - forEach - Structures - var\Structures\bin\Debug\netcoreapp3.0\Structures.exe
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 3 - arrays - forEach - Structures - var\Structures\bin\Debug\netcoreapp3.0\Structures.deps.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 3 - arrays - forEach - Structures - var\Structures\bin\Debug\netcoreapp3.0\Structures.runtimeconfig.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 3 - arrays - forEach - Structures - var\Structures\bin\Debug\netcoreapp3.0\Structures.runtimeconfig.dev.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 3 - arrays - forEach - Structures - var\Structures\bin\Debug\netcoreapp3.0\Structures.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 3 - arrays - forEach - Structures - var\Structures\bin\Debug\netcoreapp3.0\Structures.pdb
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 3 - arrays - forEach - Structures - var\Structures\obj\Debug\netcoreapp3.0\Structures.csprojAssemblyReference.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 3 - arrays - forEach - Structures - var\Structures\obj\Debug\netcoreapp3.0\Structures.AssemblyInfoInputs.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 3 - arrays - forEach - Structures - var\Structures\obj\Debug\netcoreapp3.0\Structures.AssemblyInfo.cs
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 3 - arrays - forEach - Structures - var\Structures\obj\Debug\netcoreapp3.0\Structures.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 3 - arrays - forEach - Structures - var\Structures\obj\Debug\netcoreapp3.0\Structures.pdb

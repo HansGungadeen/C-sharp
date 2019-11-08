@@ -1,0 +1,10 @@
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 3 - arrays - forEach - Structures - var\Methods\bin\Debug\netcoreapp3.0\Methods.exe
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 3 - arrays - forEach - Structures - var\Methods\bin\Debug\netcoreapp3.0\Methods.deps.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 3 - arrays - forEach - Structures - var\Methods\bin\Debug\netcoreapp3.0\Methods.runtimeconfig.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 3 - arrays - forEach - Structures - var\Methods\bin\Debug\netcoreapp3.0\Methods.runtimeconfig.dev.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 3 - arrays - forEach - Structures - var\Methods\bin\Debug\netcoreapp3.0\Methods.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 3 - arrays - forEach - Structures - var\Methods\bin\Debug\netcoreapp3.0\Methods.pdb
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 3 - arrays - forEach - Structures - var\Methods\obj\Debug\netcoreapp3.0\Methods.AssemblyInfoInputs.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 3 - arrays - forEach - Structures - var\Methods\obj\Debug\netcoreapp3.0\Methods.AssemblyInfo.cs
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 3 - arrays - forEach - Structures - var\Methods\obj\Debug\netcoreapp3.0\Methods.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 3 - arrays - forEach - Structures - var\Methods\obj\Debug\netcoreapp3.0\Methods.pdb
