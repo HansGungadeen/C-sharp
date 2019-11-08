@@ -1,0 +1,10 @@
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 4 - OOP\OOP\bin\Debug\netcoreapp3.0\OOP.exe
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 4 - OOP\OOP\bin\Debug\netcoreapp3.0\OOP.deps.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 4 - OOP\OOP\bin\Debug\netcoreapp3.0\OOP.runtimeconfig.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 4 - OOP\OOP\bin\Debug\netcoreapp3.0\OOP.runtimeconfig.dev.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 4 - OOP\OOP\bin\Debug\netcoreapp3.0\OOP.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 4 - OOP\OOP\bin\Debug\netcoreapp3.0\OOP.pdb
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 4 - OOP\OOP\obj\Debug\netcoreapp3.0\OOP.AssemblyInfoInputs.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 4 - OOP\OOP\obj\Debug\netcoreapp3.0\OOP.AssemblyInfo.cs
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 4 - OOP\OOP\obj\Debug\netcoreapp3.0\OOP.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 4 - OOP\OOP\obj\Debug\netcoreapp3.0\OOP.pdb

@@ -1,0 +1,10 @@
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 4 - OOP\Constructors\bin\Debug\netcoreapp3.0\Constructors.exe
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 4 - OOP\Constructors\bin\Debug\netcoreapp3.0\Constructors.deps.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 4 - OOP\Constructors\bin\Debug\netcoreapp3.0\Constructors.runtimeconfig.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 4 - OOP\Constructors\bin\Debug\netcoreapp3.0\Constructors.runtimeconfig.dev.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 4 - OOP\Constructors\bin\Debug\netcoreapp3.0\Constructors.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 4 - OOP\Constructors\bin\Debug\netcoreapp3.0\Constructors.pdb
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 4 - OOP\Constructors\obj\Debug\netcoreapp3.0\Constructors.AssemblyInfoInputs.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 4 - OOP\Constructors\obj\Debug\netcoreapp3.0\Constructors.AssemblyInfo.cs
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 4 - OOP\Constructors\obj\Debug\netcoreapp3.0\Constructors.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 4 - OOP\Constructors\obj\Debug\netcoreapp3.0\Constructors.pdb
