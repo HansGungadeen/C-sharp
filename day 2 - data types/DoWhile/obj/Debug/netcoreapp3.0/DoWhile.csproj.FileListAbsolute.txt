@@ -1,0 +1,10 @@
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\DoWhile\bin\Debug\netcoreapp3.0\DoWhile.exe
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\DoWhile\bin\Debug\netcoreapp3.0\DoWhile.deps.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\DoWhile\bin\Debug\netcoreapp3.0\DoWhile.runtimeconfig.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\DoWhile\bin\Debug\netcoreapp3.0\DoWhile.runtimeconfig.dev.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\DoWhile\bin\Debug\netcoreapp3.0\DoWhile.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\DoWhile\bin\Debug\netcoreapp3.0\DoWhile.pdb
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\DoWhile\obj\Debug\netcoreapp3.0\DoWhile.AssemblyInfoInputs.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\DoWhile\obj\Debug\netcoreapp3.0\DoWhile.AssemblyInfo.cs
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\DoWhile\obj\Debug\netcoreapp3.0\DoWhile.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\DoWhile\obj\Debug\netcoreapp3.0\DoWhile.pdb

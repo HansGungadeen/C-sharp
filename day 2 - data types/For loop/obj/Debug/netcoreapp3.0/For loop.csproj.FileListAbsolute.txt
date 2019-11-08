@@ -1,0 +1,10 @@
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\For loop\obj\Debug\netcoreapp3.0\For loop.AssemblyInfoInputs.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\For loop\obj\Debug\netcoreapp3.0\For loop.AssemblyInfo.cs
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\For loop\bin\Debug\netcoreapp3.0\For loop.exe
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\For loop\bin\Debug\netcoreapp3.0\For loop.deps.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\For loop\bin\Debug\netcoreapp3.0\For loop.runtimeconfig.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\For loop\bin\Debug\netcoreapp3.0\For loop.runtimeconfig.dev.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\For loop\bin\Debug\netcoreapp3.0\For loop.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\For loop\bin\Debug\netcoreapp3.0\For loop.pdb
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\For loop\obj\Debug\netcoreapp3.0\For loop.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\For loop\obj\Debug\netcoreapp3.0\For loop.pdb

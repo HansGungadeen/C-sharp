@@ -1,0 +1,10 @@
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\Case_Statement\bin\Debug\netcoreapp3.0\Case_Statement.exe
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\Case_Statement\bin\Debug\netcoreapp3.0\Case_Statement.deps.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\Case_Statement\bin\Debug\netcoreapp3.0\Case_Statement.runtimeconfig.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\Case_Statement\bin\Debug\netcoreapp3.0\Case_Statement.runtimeconfig.dev.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\Case_Statement\bin\Debug\netcoreapp3.0\Case_Statement.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\Case_Statement\bin\Debug\netcoreapp3.0\Case_Statement.pdb
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\Case_Statement\obj\Debug\netcoreapp3.0\Case_Statement.AssemblyInfoInputs.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\Case_Statement\obj\Debug\netcoreapp3.0\Case_Statement.AssemblyInfo.cs
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\Case_Statement\obj\Debug\netcoreapp3.0\Case_Statement.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\Case_Statement\obj\Debug\netcoreapp3.0\Case_Statement.pdb

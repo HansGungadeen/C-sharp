@@ -1,0 +1,11 @@
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\data types\bin\Debug\netcoreapp3.0\data types.exe
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\data types\bin\Debug\netcoreapp3.0\data types.deps.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\data types\bin\Debug\netcoreapp3.0\data types.runtimeconfig.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\data types\bin\Debug\netcoreapp3.0\data types.runtimeconfig.dev.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\data types\bin\Debug\netcoreapp3.0\data types.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\data types\bin\Debug\netcoreapp3.0\data types.pdb
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\data types\obj\Debug\netcoreapp3.0\data types.csprojAssemblyReference.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\data types\obj\Debug\netcoreapp3.0\data types.AssemblyInfoInputs.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\data types\obj\Debug\netcoreapp3.0\data types.AssemblyInfo.cs
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\data types\obj\Debug\netcoreapp3.0\data types.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 2 - data types\data types\obj\Debug\netcoreapp3.0\data types.pdb
