@@ -1,0 +1,11 @@
+C:\Users\Hans.Gungadeen\source\repos\Static Keywords\bin\Debug\netcoreapp3.0\Static Keywords.exe
+C:\Users\Hans.Gungadeen\source\repos\Static Keywords\bin\Debug\netcoreapp3.0\Static Keywords.deps.json
+C:\Users\Hans.Gungadeen\source\repos\Static Keywords\bin\Debug\netcoreapp3.0\Static Keywords.runtimeconfig.json
+C:\Users\Hans.Gungadeen\source\repos\Static Keywords\bin\Debug\netcoreapp3.0\Static Keywords.runtimeconfig.dev.json
+C:\Users\Hans.Gungadeen\source\repos\Static Keywords\bin\Debug\netcoreapp3.0\Static Keywords.dll
+C:\Users\Hans.Gungadeen\source\repos\Static Keywords\bin\Debug\netcoreapp3.0\Static Keywords.pdb
+C:\Users\Hans.Gungadeen\source\repos\Static Keywords\obj\Debug\netcoreapp3.0\Static Keywords.csprojAssemblyReference.cache
+C:\Users\Hans.Gungadeen\source\repos\Static Keywords\obj\Debug\netcoreapp3.0\Static Keywords.AssemblyInfoInputs.cache
+C:\Users\Hans.Gungadeen\source\repos\Static Keywords\obj\Debug\netcoreapp3.0\Static Keywords.AssemblyInfo.cs
+C:\Users\Hans.Gungadeen\source\repos\Static Keywords\obj\Debug\netcoreapp3.0\Static Keywords.dll
+C:\Users\Hans.Gungadeen\source\repos\Static Keywords\obj\Debug\netcoreapp3.0\Static Keywords.pdb
