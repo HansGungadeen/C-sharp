@@ -1,0 +1,12 @@
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationWinAppUI\bin\Debug\OrganisationWinAppUI.exe.config
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationWinAppUI\bin\Debug\OrganisationWinAppUI.exe
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationWinAppUI\bin\Debug\OrganisationWinAppUI.pdb
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationWinAppUI\bin\Debug\OrgStandardLibraryBLL.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationWinAppUI\bin\Debug\OrgStandardLibraryBLL.pdb
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationWinAppUI\obj\Debug\OrganisationWinAppUI.csprojAssemblyReference.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationWinAppUI\obj\Debug\OrganisationWinAppUI.Form1.resources
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationWinAppUI\obj\Debug\OrganisationWinAppUI.Properties.Resources.resources
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationWinAppUI\obj\Debug\OrganisationWinAppUI.csproj.GenerateResource.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationWinAppUI\obj\Debug\OrganisationWinAppUI.csproj.CopyComplete
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationWinAppUI\obj\Debug\OrganisationWinAppUI.exe
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationWinAppUI\obj\Debug\OrganisationWinAppUI.pdb

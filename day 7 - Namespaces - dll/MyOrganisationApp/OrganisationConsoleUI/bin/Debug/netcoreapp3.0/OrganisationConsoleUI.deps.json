@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "OrganisationConsoleUI/1.0.0": {
+        "dependencies": {
+          "OrgStandardLibraryBLL": "1.0.0"
+        },
+        "runtime": {
+          "OrganisationConsoleUI.dll": {}
+        }
+      },
+      "OrgStandardLibraryBLL/1.0.0": {
+        "runtime": {
+          "OrgStandardLibraryBLL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrganisationConsoleUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrgStandardLibraryBLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

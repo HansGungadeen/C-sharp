@@ -1,0 +1,8 @@
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationBLL\bin\Debug\netcoreapp3.0\OrganisationBLL.deps.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationBLL\bin\Debug\netcoreapp3.0\OrganisationBLL.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationBLL\bin\Debug\netcoreapp3.0\OrganisationBLL.pdb
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationBLL\obj\Debug\netcoreapp3.0\OrganisationBLL.csprojAssemblyReference.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationBLL\obj\Debug\netcoreapp3.0\OrganisationBLL.AssemblyInfoInputs.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationBLL\obj\Debug\netcoreapp3.0\OrganisationBLL.AssemblyInfo.cs
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationBLL\obj\Debug\netcoreapp3.0\OrganisationBLL.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationBLL\obj\Debug\netcoreapp3.0\OrganisationBLL.pdb

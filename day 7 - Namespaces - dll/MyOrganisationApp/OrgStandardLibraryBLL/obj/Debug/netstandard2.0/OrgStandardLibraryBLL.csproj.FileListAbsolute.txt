@@ -1,0 +1,7 @@
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrgStandardLibraryBLL\bin\Debug\netstandard2.0\OrgStandardLibraryBLL.deps.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrgStandardLibraryBLL\bin\Debug\netstandard2.0\OrgStandardLibraryBLL.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrgStandardLibraryBLL\bin\Debug\netstandard2.0\OrgStandardLibraryBLL.pdb
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrgStandardLibraryBLL\obj\Debug\netstandard2.0\OrgStandardLibraryBLL.AssemblyInfoInputs.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrgStandardLibraryBLL\obj\Debug\netstandard2.0\OrgStandardLibraryBLL.AssemblyInfo.cs
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrgStandardLibraryBLL\obj\Debug\netstandard2.0\OrgStandardLibraryBLL.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrgStandardLibraryBLL\obj\Debug\netstandard2.0\OrgStandardLibraryBLL.pdb

@@ -1,0 +1,14 @@
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationConsoleUI\bin\Debug\netcoreapp3.0\OrganisationConsoleUI.exe
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationConsoleUI\bin\Debug\netcoreapp3.0\OrganisationConsoleUI.deps.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationConsoleUI\bin\Debug\netcoreapp3.0\OrganisationConsoleUI.runtimeconfig.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationConsoleUI\bin\Debug\netcoreapp3.0\OrganisationConsoleUI.runtimeconfig.dev.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationConsoleUI\bin\Debug\netcoreapp3.0\OrganisationConsoleUI.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationConsoleUI\bin\Debug\netcoreapp3.0\OrganisationConsoleUI.pdb
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationConsoleUI\obj\Debug\netcoreapp3.0\OrganisationConsoleUI.csprojAssemblyReference.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationConsoleUI\obj\Debug\netcoreapp3.0\OrganisationConsoleUI.AssemblyInfoInputs.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationConsoleUI\obj\Debug\netcoreapp3.0\OrganisationConsoleUI.AssemblyInfo.cs
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationConsoleUI\obj\Debug\netcoreapp3.0\OrganisationConsoleUI.csproj.CopyComplete
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationConsoleUI\obj\Debug\netcoreapp3.0\OrganisationConsoleUI.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationConsoleUI\obj\Debug\netcoreapp3.0\OrganisationConsoleUI.pdb
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationConsoleUI\bin\Debug\netcoreapp3.0\OrgStandardLibraryBLL.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 7 - Namespaces\MyOrganisationApp\OrganisationConsoleUI\bin\Debug\netcoreapp3.0\OrgStandardLibraryBLL.pdb
