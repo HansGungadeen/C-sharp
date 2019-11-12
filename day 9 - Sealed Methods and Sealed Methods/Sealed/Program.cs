@@ -41,7 +41,7 @@ namespace Sealed
             //c.Show();
 
             D d = new D();
-            d.Show();
+            //d.Show();
 
             Console.ReadLine();
         }
