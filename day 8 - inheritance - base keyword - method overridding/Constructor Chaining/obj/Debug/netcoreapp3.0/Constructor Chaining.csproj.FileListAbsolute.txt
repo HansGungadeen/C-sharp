@@ -1,0 +1,11 @@
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\Constructor Chaining\obj\Debug\netcoreapp3.0\Constructor Chaining.csprojAssemblyReference.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\Constructor Chaining\obj\Debug\netcoreapp3.0\Constructor Chaining.AssemblyInfoInputs.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\Constructor Chaining\obj\Debug\netcoreapp3.0\Constructor Chaining.AssemblyInfo.cs
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\Constructor Chaining\bin\Debug\netcoreapp3.0\Constructor Chaining.exe
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\Constructor Chaining\bin\Debug\netcoreapp3.0\Constructor Chaining.deps.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\Constructor Chaining\bin\Debug\netcoreapp3.0\Constructor Chaining.runtimeconfig.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\Constructor Chaining\bin\Debug\netcoreapp3.0\Constructor Chaining.runtimeconfig.dev.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\Constructor Chaining\bin\Debug\netcoreapp3.0\Constructor Chaining.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\Constructor Chaining\bin\Debug\netcoreapp3.0\Constructor Chaining.pdb
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\Constructor Chaining\obj\Debug\netcoreapp3.0\Constructor Chaining.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\Constructor Chaining\obj\Debug\netcoreapp3.0\Constructor Chaining.pdb

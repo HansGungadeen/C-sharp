@@ -1,0 +1,11 @@
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\base keyword\bin\Debug\netcoreapp3.0\base keyword.exe
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\base keyword\bin\Debug\netcoreapp3.0\base keyword.deps.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\base keyword\bin\Debug\netcoreapp3.0\base keyword.runtimeconfig.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\base keyword\bin\Debug\netcoreapp3.0\base keyword.runtimeconfig.dev.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\base keyword\bin\Debug\netcoreapp3.0\base keyword.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\base keyword\bin\Debug\netcoreapp3.0\base keyword.pdb
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\base keyword\obj\Debug\netcoreapp3.0\base keyword.AssemblyInfoInputs.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\base keyword\obj\Debug\netcoreapp3.0\base keyword.AssemblyInfo.cs
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\base keyword\obj\Debug\netcoreapp3.0\base keyword.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\base keyword\obj\Debug\netcoreapp3.0\base keyword.pdb
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\base keyword\obj\Debug\netcoreapp3.0\base keyword.csprojAssemblyReference.cache

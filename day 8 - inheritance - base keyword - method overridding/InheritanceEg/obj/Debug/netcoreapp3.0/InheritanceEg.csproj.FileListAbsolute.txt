@@ -1,0 +1,11 @@
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\InheritanceEg\bin\Debug\netcoreapp3.0\InheritanceEg.exe
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\InheritanceEg\bin\Debug\netcoreapp3.0\InheritanceEg.deps.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\InheritanceEg\bin\Debug\netcoreapp3.0\InheritanceEg.runtimeconfig.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\InheritanceEg\bin\Debug\netcoreapp3.0\InheritanceEg.runtimeconfig.dev.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\InheritanceEg\bin\Debug\netcoreapp3.0\InheritanceEg.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\InheritanceEg\bin\Debug\netcoreapp3.0\InheritanceEg.pdb
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\InheritanceEg\obj\Debug\netcoreapp3.0\InheritanceEg.csprojAssemblyReference.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\InheritanceEg\obj\Debug\netcoreapp3.0\InheritanceEg.AssemblyInfoInputs.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\InheritanceEg\obj\Debug\netcoreapp3.0\InheritanceEg.AssemblyInfo.cs
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\InheritanceEg\obj\Debug\netcoreapp3.0\InheritanceEg.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 8 - inheritance - base keyword - method overridding\InheritanceEg\obj\Debug\netcoreapp3.0\InheritanceEg.pdb
