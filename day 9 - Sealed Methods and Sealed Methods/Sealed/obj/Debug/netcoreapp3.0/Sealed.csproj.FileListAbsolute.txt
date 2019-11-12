@@ -1,0 +1,11 @@
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 9 - Sealed Methods and Sealed Methods\Sealed\bin\Debug\netcoreapp3.0\Sealed.exe
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 9 - Sealed Methods and Sealed Methods\Sealed\bin\Debug\netcoreapp3.0\Sealed.deps.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 9 - Sealed Methods and Sealed Methods\Sealed\bin\Debug\netcoreapp3.0\Sealed.runtimeconfig.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 9 - Sealed Methods and Sealed Methods\Sealed\bin\Debug\netcoreapp3.0\Sealed.runtimeconfig.dev.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 9 - Sealed Methods and Sealed Methods\Sealed\bin\Debug\netcoreapp3.0\Sealed.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 9 - Sealed Methods and Sealed Methods\Sealed\bin\Debug\netcoreapp3.0\Sealed.pdb
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 9 - Sealed Methods and Sealed Methods\Sealed\obj\Debug\netcoreapp3.0\Sealed.csprojAssemblyReference.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 9 - Sealed Methods and Sealed Methods\Sealed\obj\Debug\netcoreapp3.0\Sealed.AssemblyInfoInputs.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 9 - Sealed Methods and Sealed Methods\Sealed\obj\Debug\netcoreapp3.0\Sealed.AssemblyInfo.cs
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 9 - Sealed Methods and Sealed Methods\Sealed\obj\Debug\netcoreapp3.0\Sealed.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 9 - Sealed Methods and Sealed Methods\Sealed\obj\Debug\netcoreapp3.0\Sealed.pdb
