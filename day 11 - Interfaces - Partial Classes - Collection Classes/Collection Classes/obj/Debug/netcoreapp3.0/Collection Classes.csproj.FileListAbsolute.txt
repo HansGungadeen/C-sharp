@@ -1,0 +1,11 @@
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 11 - Interfaces - Partial Classes - Collection Classes\Collection Classes\bin\Debug\netcoreapp3.0\Collection Classes.exe
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 11 - Interfaces - Partial Classes - Collection Classes\Collection Classes\bin\Debug\netcoreapp3.0\Collection Classes.deps.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 11 - Interfaces - Partial Classes - Collection Classes\Collection Classes\bin\Debug\netcoreapp3.0\Collection Classes.runtimeconfig.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 11 - Interfaces - Partial Classes - Collection Classes\Collection Classes\bin\Debug\netcoreapp3.0\Collection Classes.runtimeconfig.dev.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 11 - Interfaces - Partial Classes - Collection Classes\Collection Classes\bin\Debug\netcoreapp3.0\Collection Classes.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 11 - Interfaces - Partial Classes - Collection Classes\Collection Classes\bin\Debug\netcoreapp3.0\Collection Classes.pdb
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 11 - Interfaces - Partial Classes - Collection Classes\Collection Classes\obj\Debug\netcoreapp3.0\Collection Classes.csprojAssemblyReference.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 11 - Interfaces - Partial Classes - Collection Classes\Collection Classes\obj\Debug\netcoreapp3.0\Collection Classes.AssemblyInfoInputs.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 11 - Interfaces - Partial Classes - Collection Classes\Collection Classes\obj\Debug\netcoreapp3.0\Collection Classes.AssemblyInfo.cs
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 11 - Interfaces - Partial Classes - Collection Classes\Collection Classes\obj\Debug\netcoreapp3.0\Collection Classes.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 11 - Interfaces - Partial Classes - Collection Classes\Collection Classes\obj\Debug\netcoreapp3.0\Collection Classes.pdb
