@@ -1,0 +1,11 @@
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 10 - Abstract Method - Abstract Class - Run Time Polymorphism\RuntimePolymorphism\bin\Debug\netcoreapp3.0\RuntimePolymorphism.exe
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 10 - Abstract Method - Abstract Class - Run Time Polymorphism\RuntimePolymorphism\bin\Debug\netcoreapp3.0\RuntimePolymorphism.deps.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 10 - Abstract Method - Abstract Class - Run Time Polymorphism\RuntimePolymorphism\bin\Debug\netcoreapp3.0\RuntimePolymorphism.runtimeconfig.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 10 - Abstract Method - Abstract Class - Run Time Polymorphism\RuntimePolymorphism\bin\Debug\netcoreapp3.0\RuntimePolymorphism.runtimeconfig.dev.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 10 - Abstract Method - Abstract Class - Run Time Polymorphism\RuntimePolymorphism\bin\Debug\netcoreapp3.0\RuntimePolymorphism.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 10 - Abstract Method - Abstract Class - Run Time Polymorphism\RuntimePolymorphism\bin\Debug\netcoreapp3.0\RuntimePolymorphism.pdb
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 10 - Abstract Method - Abstract Class - Run Time Polymorphism\RuntimePolymorphism\obj\Debug\netcoreapp3.0\RuntimePolymorphism.csprojAssemblyReference.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 10 - Abstract Method - Abstract Class - Run Time Polymorphism\RuntimePolymorphism\obj\Debug\netcoreapp3.0\RuntimePolymorphism.AssemblyInfoInputs.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 10 - Abstract Method - Abstract Class - Run Time Polymorphism\RuntimePolymorphism\obj\Debug\netcoreapp3.0\RuntimePolymorphism.AssemblyInfo.cs
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 10 - Abstract Method - Abstract Class - Run Time Polymorphism\RuntimePolymorphism\obj\Debug\netcoreapp3.0\RuntimePolymorphism.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 10 - Abstract Method - Abstract Class - Run Time Polymorphism\RuntimePolymorphism\obj\Debug\netcoreapp3.0\RuntimePolymorphism.pdb

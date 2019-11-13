@@ -1,0 +1,11 @@
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 10 - Abstract Method - Abstract Class - Run Time Polymorphism\Abstract Method\bin\Debug\netcoreapp3.0\Abstract Method.exe
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 10 - Abstract Method - Abstract Class - Run Time Polymorphism\Abstract Method\bin\Debug\netcoreapp3.0\Abstract Method.deps.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 10 - Abstract Method - Abstract Class - Run Time Polymorphism\Abstract Method\bin\Debug\netcoreapp3.0\Abstract Method.runtimeconfig.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 10 - Abstract Method - Abstract Class - Run Time Polymorphism\Abstract Method\bin\Debug\netcoreapp3.0\Abstract Method.runtimeconfig.dev.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 10 - Abstract Method - Abstract Class - Run Time Polymorphism\Abstract Method\bin\Debug\netcoreapp3.0\Abstract Method.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 10 - Abstract Method - Abstract Class - Run Time Polymorphism\Abstract Method\bin\Debug\netcoreapp3.0\Abstract Method.pdb
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 10 - Abstract Method - Abstract Class - Run Time Polymorphism\Abstract Method\obj\Debug\netcoreapp3.0\Abstract Method.csprojAssemblyReference.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 10 - Abstract Method - Abstract Class - Run Time Polymorphism\Abstract Method\obj\Debug\netcoreapp3.0\Abstract Method.AssemblyInfoInputs.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 10 - Abstract Method - Abstract Class - Run Time Polymorphism\Abstract Method\obj\Debug\netcoreapp3.0\Abstract Method.AssemblyInfo.cs
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 10 - Abstract Method - Abstract Class - Run Time Polymorphism\Abstract Method\obj\Debug\netcoreapp3.0\Abstract Method.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 10 - Abstract Method - Abstract Class - Run Time Polymorphism\Abstract Method\obj\Debug\netcoreapp3.0\Abstract Method.pdb
