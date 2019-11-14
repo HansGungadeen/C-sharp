@@ -1,0 +1,8 @@
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 12 - Exception Handling\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 12 - Exception Handling\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 12 - Exception Handling\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 12 - Exception Handling\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 12 - Exception Handling\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 12 - Exception Handling\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 12 - Exception Handling\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\day 12 - Exception Handling\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
